@@ -1,0 +1,1 @@
+- All the structure and the code needed, I mentioned in the Class Diagram.

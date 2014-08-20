@@ -1,0 +1,30 @@
+c r500
+m 0 0a
+m 1 01
+m 2 03
+m 3 f0
+s
+d
+e
+s
+d
+m 4 ff
+g 0
+s
+d
+g 5
+m 5 13
+m 6 01
+m 7 03
+m 8 f0
+e
+m 9 16
+m 0a 03
+m 0b f0
+d
+e
+m 0c 17
+m 0d -1
+g 0c
+g 4
+q

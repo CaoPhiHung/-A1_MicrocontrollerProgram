@@ -1,0 +1,38 @@
+c 34hc22
+s
+m 0 1
+m 1 0c
+m 2 00
+m 3 00
+g 1
+e
+d
+m 4 37
+m 5 1
+e
+s
+m 6 38
+m 7 1
+e
+s
+m 8 53
+e
+s
+m 9 5a
+m a 00
+m b 0c
+e
+m c 5b
+m d 00
+m e 0f
+s
+e
+m f 5d
+m 10 3
+m 11 00
+m 12 15
+s
+e
+m 13 64
+e
+q

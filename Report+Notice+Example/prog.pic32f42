@@ -1,0 +1,27 @@
+c pic32f42
+m 0 50
+m 1 01
+m 2 51
+m 3 00
+m 4 05
+e
+m 5 5a
+m 6 1
+e
+m 7 5b
+m 8 1
+m 9 6e
+m a 00
+m b 0c
+e
+s
+m c 70
+m d 0
+m e 05
+m f f0
+d
+s
+e
+m 05f0 ff
+e
+q
